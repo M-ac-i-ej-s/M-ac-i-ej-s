@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Maciej
-* 👀 Currently working as a Mid Fullstack developer @ TAXSHIELD
+* 👀 Exploring 
 * 🌱 I’m learning: 
     * PWA
     * Vue
