@@ -7,5 +7,6 @@
 * 📫 How to reach me: 
     * email: maciej.slupianekge@gmail.com
     * linkedin: https://www.linkedin.com/in/maciej-s%C5%82upianek-686246237/
+    * my page: https://www.maciejslupianek.net/
 
 
